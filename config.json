@@ -1,0 +1,25 @@
+{
+	"name": {
+		"zh-cn": "RS485风向变送器 ",
+		"en": "RS485 Wind Direction"
+	},
+	"description": {
+		"zh-cn": "SEN0482:风向测量,需搭配RS485转UART模块使用(DFR0845)",
+		"en": "Used to measure horizontal wind direction"
+	},
+	"author": "liliang",
+	"email": "liang.li@dfrobot.com",
+	"license": "MIT",
+	"isBoard": false,
+	"id": "dfr0845_sen0482",
+	"platform": ["win", "mac", "web"],
+	"version": "0.0.1",
+	"asset": {
+		"arduinoC": {
+			"dir": "arduinoC/",
+			"version": "0.0.1",
+			"board": ["arduino", "microbit", "esp32"],
+			"main": "main.ts"
+		}
+	}
+}
