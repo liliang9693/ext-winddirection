@@ -1,0 +1,9 @@
+{
+    "dfr0845_sen0482.sen0482_modifyAddress|block": "initialize device address [ADDRESS]",
+    "dfr0845_sen0482.sen0482_getWindDirection1|block": "wind direction port [HARDSER] RX:[HARDRX] TX:[HARDTX]",
+    "dfr0845_sen0482.sen0482_getWindDirection2|block": "wind direction port [SOTFSER] RX:[SOFTRX] TX:[SOFTTX]",
+    "dfr0845_sen0482.HARDSER.Serial|menu": "HardSerial",
+    "dfr0845_sen0482.HARDSER.Serial1|menu": "HardSerial1",
+    "dfr0845_sen0482.HARDSER.Serial2|menu": "HardSerial2",
+    "dfr0845_sen0482.SOTFSER.SoftwareSerial|menu": "SoftSerial"
+}
